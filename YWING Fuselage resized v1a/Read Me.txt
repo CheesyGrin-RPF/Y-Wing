@@ -1,0 +1,9 @@
+Original 3D fuselage files are provided by modeler DaveG for the Open Source Y-Wing Project.
+
+These files were modified by modeler CheesyGrin (ChrisK). The new suggested size specifications are from modeler dtssyst (DavidW). These specifications are from using cast parts from actual kit parts that are available from modeler Studio Kitbash (ReadS). These cast parts did not fit correctly on the original fuselage files from DaveG and that is why these files were modified/updated.
+
+Two versions of these updated files are available. 
+One version is for printing from a third party such as Shapeways.
+The second version is for easier and faster printing on a home 3D printer (dependant on your preferred 3D printer settings).
+
+A huge thank you to all involved.
